@@ -3,7 +3,7 @@ baseurl: "/maia" # the name of your github repo
 url: "https://itsmaia.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
+title: "Maia's corner"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
