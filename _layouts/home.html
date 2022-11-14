@@ -5,14 +5,14 @@ layout: default
   {% include nav.html%}
 {% endif %}
 
-<div class="mx-auto text-center prose prose-{{site.theme-color}}">
+<div class="mx-auto prose-a:no-underline text-center prose prose-{{site.theme-color}}">
   <div>
     <img class="object-cover mx-auto h-36 w-36 rounded-full" src="{{site.baseurl}}/assets/img/{{site.author-image}}"
       alt="author profile image">
     <h1>{{site.author}}</h1>
   </div>
   {% if site.author-bio %}
-  <p class="text-gray-500 pb-4">{{site.author-bio}} <a href="https://aprendajp.com/guide" class="no-underline">AprendaJP</a></p>
+  <p class="text-gray-500 pb-4">{{site.author-bio}} <a target="_blank" href="https://aprendajp.com/guide">AprendaJP</a></p>
   {% endif %}
 </div>
 </div>
