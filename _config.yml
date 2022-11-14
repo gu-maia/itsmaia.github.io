@@ -4,7 +4,7 @@ url: "https://itsmaia.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Maia's corner"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+description: Just a place to present myself :)
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -20,12 +20,15 @@ show-nav-menu: true
 nav-menu:
   - text: Sobre
     permalink: about
+  - text: Contato
+    permalink: contato
 
 # use false to turn off any social media links
 github: https://github.com/itsmaia
+twitter: https://twitter.com/maia_csec
 medium: false
 google-scholar: false
-email: false
+email: contato@gustavomaia.com
 
 # footer information
 footer-msg: "Powered by Tailpages"

@@ -1,22 +1,17 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: about
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+> Sou um programador freelancer e no meu tempo livre ajudo as pessoas a aprenderem japonês no [AprendaJP](https://aprendajp.com/guide).
 
-## Profile Image
+## Projetos
 
-The following profile image is my first NFT avatar.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/279.png">
+#### AprendaJP
 
-## References
+No começo da pandemia eu decidi estudar japonês. Existe muito conteúdo gratuito na internet e a maioria está em inglês, então, para retribuir toda ajuda que tive, decidi criar o [AprendaJP](https://aprendajp.com/guide).
 
-I copied some references from [wikipedia](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) to show some markdown examples:
+#### Gugabnb
 
- - "The misidentification of Satoshi Nakamoto". theweek.com. 30 June 2015. Retrieved 22 July 2019.
- Kharif, Olga (23 April 2019). "John McAfee Vows to Unmask Crypto's Satoshi Nakamoto, Then Backs Off". Bloomberg.
- - "Who Is Satoshi Nakamoto, Inventor of Bitcoin? It Doesn't Matter". Fortune. Retrieved 22 July 2019.
- - Bearman, Sophie (27 October 2017). "Bitcoin's creator may be worth $6 billion — but people still don't know who it is". CNBC. Retrieved 22 July 2019.
- S., L. (2 November 2015). "Who is Satoshi Nakamoto?". The Economist explains. The Economist. Archived from the original on 21 August 2016. Retrieved 3 November 2015.
+Estou criando uma série de projetos para meu portfólio. A ideia é criar aplicações grandes, complexas e o mais próximo de um ambiente real possível. O primeiro desses projetos que estou tocando é o [GugaBNB](https://github.com/itsmaia/gugabnb), um clone 1:1 do AirBNB feito em Ruby on Rails.
