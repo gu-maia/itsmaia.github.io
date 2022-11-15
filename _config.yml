@@ -34,6 +34,8 @@ email: "contato@gustavomaia.com"
 footer-msg: "Powered by Tailpages"
 footer-msg-link: https://github.com/harrywang/tailpages
 
+google-analytics: G-C3L2TM6TL4
+
 # jekyll plugins - no need to change
 plugins:
   - jekyll-seo-tag
