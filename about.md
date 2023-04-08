@@ -4,7 +4,7 @@ title: Sobre
 permalink: about
 ---
 
-> Sou um programador freelancer e no meu tempo livre ajudo as pessoas a aprenderem japonês no [AprendaJP](https://aprendajp.com/guide).
+> Engenheiro de Software na [Capim. ]()No meu tempo livre ajudo as pessoas a aprenderem japonês no [AprendaJP](https://aprendajp.com/guide).
 
 ## Projetos
 
